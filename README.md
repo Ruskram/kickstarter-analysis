@@ -52,8 +52,8 @@ One challenge that I can see someone having is with spliting data into multiple 
 
 - What are some limitations of this dataset?
 
-One limitation of this graph is that it doesn't have the maximum/minimun donation amount. This might be deceptive because the kickstarter could not have had much interest but a generous donation covered 90% of the goal. This would make it more luck than and might be considered as an outlier.
+  One limitation of this graph is that it doesn't have the maximum/minimun donation amount. This might be deceptive because the kickstarter could not have had much interest but a generous donation covered 90% of the goal. This would make it more luck than and might be considered as an outlier.
 
 - What are some other possible tables and/or graphs that we could create?
 
-I think a category vs percentage funded graph would be useful. This graph would show what kind of kickstarters get funded and would likely be easier to succeed.
+  I think a category vs percentage funded graph would be useful. This graph would show what kind of kickstarters get funded and would likely be easier to succeed.
